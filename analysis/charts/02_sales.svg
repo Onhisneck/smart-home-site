@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="377" viewBox="0 0 920 377" role="img">
+<title>Продажи устройств умного дома в России</title><desc>Оценка и прогноз из одной публикации НТЦ ГРЦ</desc>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="0" y="0" width="920" height="377" fill="#ffffff"/>
+<rect x="28" y="29" width="5" height="25" fill="#245dcc"/>
+<text x="44" y="49" fill="#162842" font-size="26" text-anchor="start" font-weight="700">Продажи устройств умного дома в России</text>
+<text x="44" y="76" fill="#475b73" font-size="15" text-anchor="start" font-weight="400">Оценка и прогноз из одной публикации НТЦ ГРЦ</text>
+<line x1="135" y1="286" x2="790" y2="286" stroke="#dce5ef" stroke-width="1"/>
+<text x="121" y="291" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">0</text>
+<line x1="135" y1="237" x2="790" y2="237" stroke="#dce5ef" stroke-width="1"/>
+<text x="121" y="242" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">1</text>
+<line x1="135" y1="188" x2="790" y2="188" stroke="#dce5ef" stroke-width="1"/>
+<text x="121" y="193" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">2</text>
+<line x1="135" y1="139" x2="790" y2="139" stroke="#dce5ef" stroke-width="1"/>
+<text x="121" y="144" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">3</text>
+<text x="135" y="116" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">Млрд долл. США</text>
+<line x1="270" y1="227.2" x2="650" y2="153.7" stroke="#a34a15" stroke-width="3" stroke-dasharray="7 5"/>
+<circle cx="270" cy="227.2" r="6" fill="#245dcc" stroke="#245dcc" stroke-width="2"/>
+<text x="270" y="213.2" fill="#162842" font-size="15" text-anchor="middle" font-weight="700">1,2</text>
+<text x="270" y="310" fill="#162842" font-size="15" text-anchor="middle" font-weight="400">2022 · оценка</text>
+<circle cx="650" cy="153.7" r="6" fill="#ffffff" stroke="#a34a15" stroke-width="2"/>
+<text x="650" y="139.7" fill="#162842" font-size="15" text-anchor="middle" font-weight="700">2,7</text>
+<text x="650" y="310" fill="#162842" font-size="15" text-anchor="middle" font-weight="400">2025 · прогноз</text>
+<line x1="28" y1="334" x2="892" y2="334" stroke="#dce5ef" stroke-width="1"/>
+<text x="30" y="357" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">Источник · НТЦ ГРЦ в публикации Rozetked. Пунктир показывает прогноз, промежуточных данных нет.</text>
+</g>
+</svg>

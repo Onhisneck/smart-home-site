@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="396" viewBox="0 0 920 396" role="img">
+<title>Бюджет на установку по типу жилья</title><desc>Синтетический опрос · только заинтересованные с положительным бюджетом</desc>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="0" y="0" width="920" height="396" fill="#ffffff"/>
+<rect x="28" y="29" width="5" height="25" fill="#245dcc"/>
+<text x="44" y="49" fill="#162842" font-size="26" text-anchor="start" font-weight="700">Бюджет на установку по типу жилья</text>
+<text x="44" y="76" fill="#475b73" font-size="15" text-anchor="start" font-weight="400">Синтетический опрос · только заинтересованные с положительным бюджетом</text>
+<line x1="220" y1="108" x2="220" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="220" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">0</text>
+<line x1="300.625" y1="108" x2="300.625" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="300.625" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">100</text>
+<line x1="381.25" y1="108" x2="381.25" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="381.25" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">200</text>
+<line x1="461.875" y1="108" x2="461.875" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="461.875" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">300</text>
+<line x1="542.5" y1="108" x2="542.5" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="542.5" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">400</text>
+<line x1="623.125" y1="108" x2="623.125" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="623.125" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">500</text>
+<line x1="703.75" y1="108" x2="703.75" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="703.75" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">600</text>
+<line x1="784.375" y1="108" x2="784.375" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="784.375" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">700</text>
+<line x1="865" y1="108" x2="865" y2="300" stroke="#dce5ef" stroke-width="1"/>
+<text x="865" y="322" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">800</text>
+<line x1="220" y1="300" x2="865" y2="300" stroke="#475b73" stroke-width="1"/>
+<text x="865" y="343" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">Бюджет, тыс. руб.</text>
+<text x="44" y="136" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Квартира</text>
+<text x="44" y="155" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 142</text>
+<line x1="244.188" y1="132" x2="389.312" y2="132" stroke="#475b73" stroke-width="2"/>
+<line x1="244.188" y1="125" x2="244.188" y2="139" stroke="#475b73" stroke-width="2"/>
+<line x1="389.312" y1="125" x2="389.312" y2="139" stroke="#475b73" stroke-width="2"/>
+<rect x="268.375" y="121" width="48.375" height="22" fill="#a9c6f0"/>
+<line x1="292.562" y1="120" x2="292.562" y2="144" stroke="#245dcc" stroke-width="3"/>
+<text x="292.562" y="161" fill="#162842" font-size="13" text-anchor="middle" font-weight="700">90</text>
+<circle cx="405.438" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="413.5" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="421.562" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="469.938" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="558.625" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="566.688" cy="132" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<text x="44" y="199" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Частный дом</text>
+<text x="44" y="218" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 78</text>
+<line x1="276.438" y1="195" x2="566.688" y2="195" stroke="#475b73" stroke-width="2"/>
+<line x1="276.438" y1="188" x2="276.438" y2="202" stroke="#475b73" stroke-width="2"/>
+<line x1="566.688" y1="188" x2="566.688" y2="202" stroke="#475b73" stroke-width="2"/>
+<rect x="357.062" y="184" width="104.812" height="22" fill="#a9c6f0"/>
+<line x1="413.5" y1="183" x2="413.5" y2="207" stroke="#245dcc" stroke-width="3"/>
+<text x="413.5" y="224" fill="#162842" font-size="13" text-anchor="middle" font-weight="700">240</text>
+<circle cx="623.125" cy="195" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="647.312" cy="195" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="719.875" cy="195" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="816.625" cy="195" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<text x="44" y="262" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Таунхаус</text>
+<text x="44" y="281" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 37</text>
+<line x1="292.562" y1="258" x2="615.062" y2="258" stroke="#475b73" stroke-width="2"/>
+<line x1="292.562" y1="251" x2="292.562" y2="265" stroke="#475b73" stroke-width="2"/>
+<line x1="615.062" y1="251" x2="615.062" y2="265" stroke="#475b73" stroke-width="2"/>
+<rect x="373.188" y="247" width="96.75" height="22" fill="#a9c6f0"/>
+<line x1="413.5" y1="246" x2="413.5" y2="270" stroke="#245dcc" stroke-width="3"/>
+<text x="413.5" y="287" fill="#162842" font-size="13" text-anchor="middle" font-weight="700">240</text>
+<circle cx="623.125" cy="258" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="727.938" cy="258" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<circle cx="832.75" cy="258" r="3" fill="#ffffff" stroke="#475b73" stroke-width="2"/>
+<line x1="28" y1="353" x2="892" y2="353" stroke="#dce5ef" stroke-width="1"/>
+<text x="30" y="376" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">Коробка · средние 50%; черта и число · медиана; усы · до 1,5 межквартильного размаха.</text>
+</g>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="431" viewBox="0 0 920 431" role="img">
+<title>Интерес и заявки по типу жилья</title><desc>Синтетический опрос · доля от всех анкет каждого типа жилья</desc>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<rect x="0" y="0" width="920" height="431" fill="#ffffff"/>
+<rect x="28" y="29" width="5" height="25" fill="#245dcc"/>
+<text x="44" y="49" fill="#162842" font-size="26" text-anchor="start" font-weight="700">Интерес и заявки по типу жилья</text>
+<text x="44" y="76" fill="#475b73" font-size="15" text-anchor="start" font-weight="400">Синтетический опрос · доля от всех анкет каждого типа жилья</text>
+<line x1="224" y1="139" x2="224" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="224" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">0</text>
+<line x1="338" y1="139" x2="338" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="338" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">20</text>
+<line x1="452" y1="139" x2="452" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="452" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">40</text>
+<line x1="566" y1="139" x2="566" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="566" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">60</text>
+<line x1="680" y1="139" x2="680" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="680" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">80</text>
+<line x1="794" y1="139" x2="794" y2="324" stroke="#dce5ef" stroke-width="1"/>
+<text x="794" y="346" fill="#475b73" font-size="13" text-anchor="middle" font-weight="400">100</text>
+<line x1="224" y1="324" x2="794" y2="324" stroke="#475b73" stroke-width="1"/>
+<text x="794" y="367" fill="#475b73" font-size="13" text-anchor="end" font-weight="400">Доля анкет в группе, %</text>
+<rect x="224" y="104" width="16" height="12" fill="#245dcc"/>
+<text x="248" y="115" fill="#162842" font-size="15" text-anchor="start" font-weight="400">Интерес к установке</text>
+<rect x="474" y="104" width="16" height="12" fill="#087d75"/>
+<text x="498" y="115" fill="#162842" font-size="15" text-anchor="start" font-weight="400">Готовность к заявке</text>
+<text x="44" y="165" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Квартира</text>
+<text x="44" y="186" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 253</text>
+<rect x="224" y="145" width="319.921" height="17" fill="#245dcc"/>
+<text x="551.921" y="159" fill="#162842" font-size="13" text-anchor="start" font-weight="700">56,1%</text>
+<rect x="224" y="168" width="308.656" height="17" fill="#087d75"/>
+<text x="540.656" y="182" fill="#162842" font-size="13" text-anchor="start" font-weight="700">54,2%</text>
+<text x="44" y="225" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Частный дом</text>
+<text x="44" y="246" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 100</text>
+<rect x="224" y="205" width="444.6" height="17" fill="#245dcc"/>
+<text x="676.6" y="219" fill="#162842" font-size="13" text-anchor="start" font-weight="700">78,0%</text>
+<rect x="224" y="228" width="399" height="17" fill="#087d75"/>
+<text x="631" y="242" fill="#162842" font-size="13" text-anchor="start" font-weight="700">70,0%</text>
+<text x="44" y="285" fill="#162842" font-size="15" text-anchor="start" font-weight="700">Таунхаус</text>
+<text x="44" y="306" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">n = 47</text>
+<rect x="224" y="265" width="448.723" height="17" fill="#245dcc"/>
+<text x="680.723" y="279" fill="#162842" font-size="13" text-anchor="start" font-weight="700">78,7%</text>
+<rect x="224" y="288" width="424.468" height="17" fill="#087d75"/>
+<text x="656.468" y="302" fill="#162842" font-size="13" text-anchor="start" font-weight="700">74,5%</text>
+<line x1="28" y1="388" x2="892" y2="388" stroke="#dce5ef" stroke-width="1"/>
+<text x="30" y="411" fill="#475b73" font-size="13" text-anchor="start" font-weight="400">Интерес включает ответы «Да» и «Скорее да». Группы различаются по размеру.</text>
+</g>
+</svg>
